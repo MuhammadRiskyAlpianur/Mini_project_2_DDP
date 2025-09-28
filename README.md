@@ -6,30 +6,38 @@ MUHAMMAD RISKY ALPAINUR|2509116101|SISTEM INFORMASI C 2025
 
  # Fitur Program
 
-1. Login dengan Role
+# Login dengan Role
+
+<img width="570" height="142" alt="Screenshot 2025-09-28 120124" src="https://github.com/user-attachments/assets/5dc0fd3e-f1df-490b-9959-9685b58ca8a1" />
+
 
 Terdapat data user (manager dan karyawan).
 
 Autentikasi dilakukan dengan username, password, dan jabatan.
 
-Hanya manager yang dapat mengubah harga aset.
+<img width="636" height="97" alt="Screenshot 2025-09-28 120826" src="https://github.com/user-attachments/assets/2aa9dbdd-9587-4c75-8b02-e5b268d1e926" />
 
-2. Melihat Aset
+
+jika salah satu dari username,password,dan jabatan salah maka program akan otomatis berhenti
+
+# Melihat Aset
 
 Menampilkan seluruh aset yang ada di portofolio dengan jumlah dan harga.
 
-3. Menambahkan Aset
+# Menambahkan Aset
 
 User dapat menambahkan aset baru dengan nama, jumlah, dan harga.
 
-4. Mengubah Aset
+# Mengubah Aset
 
 Mengubah harga aset yang sudah ada di portofolio.
 
-5. Menghapus Aset
+# Menghapus Aset
 
 Menghapus aset tertentu dari portofolio.
 
-6. Keluar Program
+# Keluar Program
 
 Menghentikan eksekusi program.
+
+# HASIL OUTPUT
